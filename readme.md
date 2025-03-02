@@ -39,4 +39,4 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
    npm run dev
    ```
 
-5. Abra seu navegador e acesse `http://localhost:3000`..
+5. Abra seu navegador e acesse `http://localhost:3000`.
