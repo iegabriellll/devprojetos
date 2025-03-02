@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  /* Para evitar flash branco durante o carregamento */
+  html {
+    background-color: #121212;
+  }
+  
